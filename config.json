@@ -1,0 +1,12 @@
+{
+ "TOKEN": "BOT TOKEN",
+ "YOUTUBE_API_KEY":"YOUR API KEY",
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "MAX_PLAYLIST_SIZE": 10,
+  "PREFIX": "?",
+  "LOCALE": "en",
+  "support_server": "https://top.gg/servers/850200666798161941",
+  "PRUNING": false,
+  "STAY_TIME": 30,
+  "DEFAULT_VOLUME": 100
+}
